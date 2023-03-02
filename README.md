@@ -1,4 +1,4 @@
-# -DNA-Sequence-Alignment-Tool
+# DNA-Sequence-Alignment-Tool
 
 Aim :- To acquire knowledge on sequence alignment by implementing the following three 
 simulations:- 
